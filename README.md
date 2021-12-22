@@ -1,4 +1,7 @@
 # CentralElementForDipoleAntennaBNC
+
+![alt text](https://github.com/SaLeeC/CentralElementForDipoleAntennaBNC/CentroAntennaDipoloBNC-01.jpg?raw=true)
+
 # Central Element For Dipole Antenna with a BNC connector
 
 This dipole core is designed for use with a BNC connector with 4 screw holes. The element is composed of two pieces laser cut from a 3mm Plexiglass sheet. The two pieces have been glued together to increase their mechanical strength.
