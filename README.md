@@ -1,6 +1,6 @@
 # CentralElementForDipoleAntennaBNC
 
-![alt text](https://github.com/SaLeeC/CentralElementForDipoleAntennaBNC/CentroAntennaDipoloBNC-01.jpg?raw=true)
+![alt text](./CentroAntennaDipoloBNC-01.jpg?raw=true)
 
 # Central Element For Dipole Antenna with a BNC connector
 
